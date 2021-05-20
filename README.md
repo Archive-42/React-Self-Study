@@ -6,33 +6,54 @@ tree -I 'node_modules'
 ├── README.md
 ├── cheat-sheet
 │   └── React.js cheatsheet.md
-├── create-react-app
-│   └── my-app
-│       ├── README.md
-│       ├── package.json
-│       ├── public
-│       │   ├── favicon.ico
-│       │   ├── index.html
-│       │   ├── logo192.png
-│       │   ├── logo512.png
-│       │   ├── manifest.json
-│       │   └── robots.txt
-│       ├── src
-│       │   ├── App.css
-│       │   ├── App.js
-│       │   ├── App.test.js
-│       │   ├── index.css
-│       │   ├── index.js
-│       │   ├── logo.svg
-│       │   ├── reportWebVitals.js
-│       │   └── setupTests.js
-│       └── yarn.lock
+│
+│                                 STAYS IN ORIGINAL CONDITION
+│                                  ├── create-react-app
+│                                  │   └── my-app
+│                                  │       ├── README.md
+│                                  │       ├── package.json
+│                                  │       ├── public
+│                                  │       │   ├── favicon.ico
+│                                  │       │   ├── index.html
+│                                  │       │   ├── logo192.png
+│                                  │       │   ├── logo512.png
+│                                  │       │   ├── manifest.json
+│                                  │       │   └── robots.txt
+│                                  │       ├── src
+│                                  │       │   ├── App.css
+│                                  │       │   ├── App.js
+│                                  │       │   ├── App.test.js
+│                                  │       │   ├── index.css
+│                                  │       │   ├── index.js
+│                                  │       │   ├── logo.svg
+│                                  │       │   ├── reportWebVitals.js
+│                                  │       │   └── setupTests.js
+│                                  │       └── yarn.lock
 ├── my-app
+│   ├── README.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── public
+│   │   ├── favicon.ico
+│   │   ├── index.html
+│   │   ├── logo192.png
+│   │   ├── logo512.png
+│   │   ├── manifest.json
+│   │   └── robots.txt
+│   ├── src
+│   │   ├── App.css
+│   │   ├── App.js
+│   │   ├── App.test.js
+│   │   ├── index.css
+│   │   ├── index.js
+│   │   ├── logo.svg
+│   │   ├── reportWebVitals.js
+│   │   └── setupTests.js
+│   └── yarn.lock
 └── notes
     └── notes.md
 
-7 directories, 20 files
-
+9 directories, 38 files
 
 
 ```
